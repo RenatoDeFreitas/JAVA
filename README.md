@@ -5,9 +5,13 @@ Este é um repositório (teste de estudo) para amazenar informações resumos so
 ## Modelo de formatação
 
 A seguir, as informações abaixo serão editadas para facilitar o entendimento.
+A pasta será destina a armazer 3 plataformas de estudo, sendo:
+. DIO
+. Udemy
+. YouTube (Gustavo Guanabar)
 
 
-do GIT / GitGitHub.
+
 [Paforma de estudo DIO](https://web.dio.me/home).
 
 ## 📚 Documentação 
