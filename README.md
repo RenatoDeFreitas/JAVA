@@ -2,7 +2,10 @@
 
 Este é um repositório (teste de estudo) para amazenar informações resumos sobre o estude de JAVA.
 
-## Modelo de formatação ⬇️
+## Modelo de formatação
+
+A seguir, as informações abaixo serão editadas para facilitar o entendimento.
+
 
 do GIT / GitGitHub.
 [Paforma de estudo DIO](https://web.dio.me/home).
