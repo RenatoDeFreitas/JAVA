@@ -1,4 +1,4 @@
-package dio.aprendendosintaxe.anatomiaclasses;
+package aprendendosintaxe.anatomiaclasses;
 
 public class MinhaClasse {
 
