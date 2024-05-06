@@ -2,7 +2,7 @@
 
 Olá pessoal!
 
-Esse repositório apresentará minha jornada de aprendizado em Java! 👓
+Esse repositório apresentará minha jornada de aprendizado em Java! 🍵 <dir>
 Esta é a minha primeira experiência com a linguagem, deste modo os estudos aqui são basicamente uma codificação básica. Mas, toda joranda começa em um primeiro passo.
 
 Meu objetivo é não apenas dominar Java, mas também construir uma rede de contatos e, possíveis parceiros de negócio. Acredito que juntos podemos alcançar grandes feitos e impulsionar nossas carreiras para o próximo nível.
