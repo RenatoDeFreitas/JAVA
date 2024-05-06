@@ -1,37 +1,27 @@
-# ESTUDO JAVA     
+# Minha Jornada com Java 💻🚀
 
-Este é um repositório (teste de estudo) para amazenar informações resumos sobre o estude de JAVA.
+Olá pessoal!
 
-## Modelo de formatação
+Esse repositório apresentará minha jornada de aprendizado em Java! 👓
+Esta é a minha primeira experiência com a linguagem, deste modo os estudos aqui são basicamente uma codificação básica. Mas, toda joranda começa em um primeiro passo.
 
-A seguir, as informações abaixo serão editadas para facilitar o entendimento.
-A pasta será destina a armazer 3 plataformas de estudo, sendo:
-. DIO
-. Udemy
-. YouTube (Gustavo Guanabar)
+Meu objetivo é não apenas dominar Java, mas também construir uma rede de contatos e, possíveis parceiros de negócio. Acredito que juntos podemos alcançar grandes feitos e impulsionar nossas carreiras para o próximo nível.
+
+### Bootcamp Santander 2024 - Backend com Java 🚀
+
+Aqui está uma visão geral dos tópicos que estou estudando e minha progressão até agora:
+
+| Título de Estudo                            | Concluído? |
+|--------------------------------------------|------------|
+| Princípios de Desenvolvimento              | [X]        |
+| Dominando a Linguagem                      | [ ]        |
+| POO (Programação Orientada a Objetos)      | [ ]        |
+| Testes e Gerenciamento de Dependências     | [ ]        |
+| Banco de Dados SQL e NoSQL                 | [ ]        |
+| Ganhando Produtividade com Spring          | [ ]        |
+| Soft Skills                                | [ ]        |
 
 
 
-[Paforma de estudo DIO](https://web.dio.me/home).
-
-## 📚 Documentação 
-- [Documentos Git: começar a escrever no git](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-- etc.
-
-## Resumos das aulas
-
-|Aulas|Resumos|
-|----|--|
-|salvando alterações - repositório local | [Aula 01](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/bootcamp-squadio&tab=undefined&moduleId=undefined)|
-criando o passo a passo para operar o git | [Link de acesso](www...)
-
-```
-git init:  iniciar um repositório no git hub ...
-```
-```
-cd - abir uma pasta pelo terminal
-```
-
-## 🔎 Referências 
-
-- [Criando primeiro programa em C#](https://www.youtube.com/watch?v=2cGjyyw5ifQ&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=4)
+Atenciosamente,  
+[Renato Freitas] 🚀
