@@ -12,6 +12,7 @@ public class ExemploFor {
         }
         System.out.println();
         System.out.println( "Fim da contagem! ");
-       
+    teclado.close();
     }
+    
 }
