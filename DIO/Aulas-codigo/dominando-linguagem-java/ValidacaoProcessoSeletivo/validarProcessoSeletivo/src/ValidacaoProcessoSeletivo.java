@@ -21,7 +21,7 @@ public class ValidacaoProcessoSeletivo {
     }
 
     static void analisarCandidato(double salarioPretendido){
-        double salarioBase = 2000.0;
+        double salarioBase = 3200.0;
         if (salarioBase > salarioPretendido) {
             System.out.println ("Ligar para o candidato. Seu salário é " + salarioPretendido);
         }
