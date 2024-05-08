@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T10:56:16.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IB_b0vSF_dXff8nRIcAK" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-08T11:46:50.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="hTFeGTkEQ7V-q_dF1GEC" version="24.3.1" type="github" pages="6">
   <diagram name="DIO-JAVA-Introducao" id="LInwJtWlSMTPpnakC6AN">
     <mxGraphModel dx="6579" dy="2321" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1178,7 +1178,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9kbmQ-4JN17R9mviuv5v" name="Est-CONDICIONAIS">
-    <mxGraphModel dx="4134" dy="2732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6748" dy="3981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
