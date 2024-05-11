@@ -1,7 +1,7 @@
 package numerocontadordofluxo;
 
 import java.util.Scanner;
-import java.util.InputMismatchException;
+
 
 
 public class NumeroContador {
@@ -14,6 +14,7 @@ public class NumeroContador {
 		
 		System.out.println("Digite o segundo número:");
 		int parametroDois = teclado.nextInt();
+		
 		System.out.println("Primeiro número: " + parametroUm);
 		System.out.println("Primeiro segundo: " + parametroDois);		
 		
@@ -21,14 +22,14 @@ public class NumeroContador {
 		try {
 			contar(parametroUm, parametroDois);
 		}
-		catch (ParametrosInvalidoException exception) {
+		catch (ParametrosInvalidosException exception) {
 			System.out.println(exception.getMessage());
 		}
 		teclado.close();	
 	}
-	static void contar(int parametroUm,int parametroDois) throws ParametrosInvalidoException {
+	static void contar(int parametroUm,int parametroDois) throws ParametrosInvalidosException {
 		if (parametroUm > parametroDois) {
-			throw new ParametrosInvalidoException(null);
+			throw new ParametrosInvalidosException("O segundo número é ("+ parametroDois + ") ele deve ser maior que o primeiro (" + parametroUm + ").");
 		}
 		else {
 			int contagem = parametroDois - parametroUm;
