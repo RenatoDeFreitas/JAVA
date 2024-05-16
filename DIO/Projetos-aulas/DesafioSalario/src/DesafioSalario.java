@@ -26,13 +26,6 @@ public class DesafioSalario {
             salario = salario - (salario * 0.15) + beneficio;
             System.out.println("Desconto de 1%. O valor a receber: R$ " + salario);
         }
-
-        // saída
-        /*
-         * System.out.println(salario);
-         * System.out.println(beneficio);
-         */
-
         teclado.close();
     }
 }
